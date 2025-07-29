@@ -4,23 +4,17 @@
 此專案是參考 [這支教學影片](https://www.youtube.com/watch?v=aBTiZfShe-4) 實作完成的。  
 Demo：[🔗 線上展示](https://reactsimpletodo.darenge.net/)
 
----
-
 ## ✨ 功能
 
 - ➕ 新增待辦事項
 - ✅ 標記任務完成
 - ❌ 刪除任務
 
----
-
 ## 🛠 使用技術
 
 - **React** – 建構前端互動
 - **JavaScript (ES6+)** – 程式邏輯
 - **CSS** – 簡單樣式設計
-
----
 
 ## 🚀 安裝與使用
 
