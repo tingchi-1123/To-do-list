@@ -19,6 +19,6 @@ Demo：[https://reactsimpletodo.darenge.net/])
 
 ```bash
 git clone <https://github.com/tingchi-1123/To-do-list.git>
-cd react-simple-todo
+cd To-do-list
 npm install
 npm start
