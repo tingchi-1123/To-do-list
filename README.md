@@ -2,7 +2,7 @@
 
 一個使用 **React** 製作的簡單 To-Do List 專案，可新增、完成、刪除任務。  
 此專案是參考 [這支教學影片](https://www.youtube.com/watch?v=aBTiZfShe-4) 實作完成的。  
-Demo：[🔗 線上展示](https://reactsimpletodo.darenge.net/)
+Demo：[🔗 線上展示]([https://reactsimpletodo.darenge.net](https://drive.google.com/file/d/1TjcokKeImzXSZYNoCNqFmbNEbYA9qY70/view?usp=sharing)/)
 
 ## ✨ 功能
 
